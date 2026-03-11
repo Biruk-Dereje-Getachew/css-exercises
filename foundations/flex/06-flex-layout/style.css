@@ -36,4 +36,17 @@ body {
 .header,
 .footer {
   padding: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  gap: 12px;
 }
