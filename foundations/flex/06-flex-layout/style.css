@@ -40,6 +40,9 @@ body {
   justify-content: space-between;
 }
 
+.footer {
+  background-color: #eee;
+}
 ul {
   list-style-type: none;
   padding: 0;
