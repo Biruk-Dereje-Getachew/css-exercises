@@ -32,3 +32,8 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.header,
+.footer {
+  padding: 12px;
+}
