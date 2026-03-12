@@ -79,6 +79,7 @@ body {
 
 .card {
   flex: 0 0 300px;
+  padding: 12px;
 }
 
 .footer {
