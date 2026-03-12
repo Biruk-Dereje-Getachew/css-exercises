@@ -54,6 +54,15 @@ body {
   flex: 1 0 300px;
 }
 
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 12px;
+}
+
 .sidebar ul li a {
   font-size: 24px;
   color: white;
