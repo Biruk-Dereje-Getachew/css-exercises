@@ -61,6 +61,10 @@ body {
   padding: 16px;
 }
 
+.cards {
+  padding: 48px;
+}
+
 .footer {
   display: flex;
   flex: 0 1 auto;
