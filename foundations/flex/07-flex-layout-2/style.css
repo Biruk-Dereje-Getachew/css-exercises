@@ -63,6 +63,13 @@ body {
 
 .cards {
   padding: 48px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.card {
+  flex: 0 0 300px;
 }
 
 .footer {
