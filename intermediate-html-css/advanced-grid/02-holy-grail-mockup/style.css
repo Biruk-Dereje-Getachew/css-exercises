@@ -100,10 +100,16 @@
 
 .header {
   grid-area: header;
+  align-items: center;
 }
 
 .sidebar {
   grid-area: sidebar;
+}
+
+.sidebar > div {
+  display: grid;
+  align-items: center;
 }
 
 .nav {
