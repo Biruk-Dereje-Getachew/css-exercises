@@ -154,6 +154,10 @@ ul > li {
   height: 200px;
 }
 
+.title {
+  margin-bottom: 12px;
+}
+
 .menu > ul {
   display: grid;
   grid-template-columns: repeat(4, auto);
