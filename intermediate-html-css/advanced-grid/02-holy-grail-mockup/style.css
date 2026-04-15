@@ -132,3 +132,8 @@ ul > li {
   grid-template-rows: repeat(4, 1fr);
   gap: 50px;
 }
+
+.nav > ul {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+}
