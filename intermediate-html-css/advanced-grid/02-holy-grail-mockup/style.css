@@ -126,3 +126,9 @@ ul > li {
   display: grid;
   grid-template-columns: auto auto;
 }
+
+.sidebar {
+  display: grid;
+  grid-template-rows: repeat(4, 1fr);
+  gap: 50px;
+}
