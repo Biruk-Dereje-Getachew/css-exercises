@@ -117,3 +117,7 @@
 .footer {
   grid-area: footer;
 }
+
+ul > li {
+  list-style-type: none;
+}
