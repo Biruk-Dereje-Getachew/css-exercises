@@ -104,12 +104,9 @@ ul > li {
 
 .header {
   grid-area: header;
-  align-items: center;
-}
-
-.header {
   display: grid;
   grid-template-columns: auto auto;
+  align-items: center;
 }
 
 .menu > ul {
@@ -119,9 +116,6 @@ ul > li {
 
 .sidebar {
   grid-area: sidebar;
-}
-
-.sidebar {
   display: grid;
   grid-template-rows: repeat(4, 1fr);
   gap: 50px;
@@ -143,9 +137,6 @@ ul > li {
 
 .article {
   grid-area: article;
-}
-
-.article {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 15px;
