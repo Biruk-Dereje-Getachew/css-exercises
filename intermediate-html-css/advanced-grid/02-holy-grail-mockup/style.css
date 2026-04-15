@@ -147,3 +147,8 @@ ul > li {
 .card {
   height: 200px;
 }
+
+.menu > ul {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+}
